@@ -1,0 +1,4 @@
+language: generic
+scripti:
+  - echo "test script"
+  - ./test_gcf.sh
